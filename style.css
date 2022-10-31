@@ -1,0 +1,15 @@
+body {
+    font-size: 25px;
+    font-family: Calibri;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    height: 50px;
+    width: 100px;
+    background-color: powderblue;
+    text-align: center;
+}
